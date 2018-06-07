@@ -1,0 +1,43 @@
+body{
+
+    font-family: Monospace;
+}
+
+/* .tinyProject{
+  background:grey;
+}
+.miniProject{
+  background:grey;
+  
+} */
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.icon_size {
+    width: 50px;
+  }
+
+.project_size{
+  width :290px;
+  height:200px;
+  margin:20px;
+  box-shadow: 10px 10px 10px rgb(0,0,0,0.3)
+}
+
+
+
+/*如何並排* and save time for class*/
+.icon_border {
+    border-color: grey;
+    border-width: 5px;
+    border-style: solid;
+    border-radius:30%;
+  }
+
+
